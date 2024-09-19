@@ -165,37 +165,37 @@ document.addEventListener('DOMContentLoaded', function () {
         allDay: true,
       }, 2023, 2030),
       ...generateYearlyEvents({
-        title: "Mr Timothy's Birthday 🎈🎉",
+        title: "Mr Timothy's Birthday (EDO) 🎈🎉",
         start: '-02-03',
         allDay: true,
       }, 2023, 2030),
       ...generateYearlyEvents({
-        title: "Mr Adetola's Birthday 🎈🎉",
+        title: "Mr Adetola's Birthday (MD) 🎈🎉",
         start: '-01-20',
         allDay: true,
       }, 2023, 2030),
       ...generateYearlyEvents({
-        title: "Mr Dapo's Birthday 🎈🎉",
+        title: "Mr Dapo's Birthday (EDS) 🎈🎉",
         start: '-06-13',
         allDay: true,
       }, 2023, 2030),
       ...generateYearlyEvents({
-        title: "Mr Ladi's Birthday 🎈🎉",
+        title: "Mr Ladi's Birthday (CFO) 🎈🎉",
         start: '-04-17',
         allDay: true,
       }, 2023, 2030),
       ...generateYearlyEvents({
-        title: "Mr Chidi's Birthday 🎈🎉",
+        title: "Mr Chidi's Birthday (Legal) 🎈🎉",
         start: '-10-31',
         allDay: true,
       }, 2023, 2030),
       ...generateYearlyEvents({
-        title: "Mr Gbemis's Birthday 🎈🎉",
+        title: "Mr Gbemi's Birthday (HR) 🎈🎉",
         start: '-03-13',
         allDay: true,
       }, 2023, 2030),
       ...generateYearlyEvents({
-        title: "Miss Sandra's Birthday 🎈🎉",
+        title: "Miss Sandra's Birthday (BDM) 🎈🎉",
         start: '-12-29',
         allDay: true,
       }, 2023, 2030),
@@ -240,7 +240,7 @@ document.addEventListener('DOMContentLoaded', function () {
         allDay: true,
       }, 2023, 2030),
       ...generateYearlyEvents({
-        title: "Mr Bamishaye's Birthday 🎈🎉",
+        title: "Mr Bamisaye's Birthday 🎈🎉",
         start: "-06-12",
         allDay: true,
       }, 2023, 2030),
