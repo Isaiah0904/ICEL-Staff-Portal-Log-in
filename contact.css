@@ -31,6 +31,11 @@ body {
   border-right: 1px solid #ccc;
   justify-content: center;
 }
+.left img{
+  position: absolute;
+  left: 6%;
+  top: 5%;
+}
 
 .left .info-container {
   display: flex;
@@ -179,6 +184,9 @@ form{
   .left {
     border-right: none;
   }
+  .left img{
+    display: none;
+   }
 }
 
 @media (min-width: 1450px) {
@@ -221,5 +229,8 @@ form{
 @media(max-width: 320px){
   .info a{
     font-size: 13.5px;
+  }
+  .left img{
+   display: none;
   }
 }
