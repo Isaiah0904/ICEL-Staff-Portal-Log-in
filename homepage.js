@@ -1,5 +1,5 @@
 
-let toggleMenu = document.getElementById("navLinks")
+let toggleMenu = document.getElementById("navLinks");
 function showMenu() {
   toggleMenu.style.top = "0"
 }
