@@ -156,10 +156,6 @@ nav .fa-solid{
   text-align: center;
   padding: 0;
 }
-
-.aboutteam-section {
-  background-color: white;
-}
 .name{
   font-size: 27px;
   margin: 0;
@@ -246,7 +242,8 @@ nav .fa-solid{
 }
 .aboutteam-section{
   width: 100%;
-  padding: 100px 0;
+  background-color: white;
+  margin-top: 100px;
 }
 .about-team{
   width: 80%;
